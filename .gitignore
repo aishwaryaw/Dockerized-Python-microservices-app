@@ -8,7 +8,7 @@ admin/.env
 admin/.db-data/
 main/.db-data/
 main/.env
-frontend/src
+frontend/src/
 
 # testing
 frontend/coverage
